@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "A to-do list where we can list down all the things we should do for that particular day and we can also remove them as we finish them up.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahesh12393/To-Do-list.git"
+  },
+  "author": "Maheswar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahesh12393/To-Do-list/issues"
+  },
+  "homepage": "https://github.com/mahesh12393/To-Do-list#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
